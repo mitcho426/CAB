@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "529140755484",
+    "firebase_url": "https://cabzone-f5c4b.firebaseio.com",
+    "project_id": "cabzone-f5c4b",
+    "storage_bucket": "cabzone-f5c4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529140755484:android:20975e321c2ada45",
+        "android_client_info": {
+          "package_name": "com.example.mitchell.cabapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529140755484-4qkqvjv5la467uu7ramlkttdp1c5asv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mitchell.cabapp",
+            "certificate_hash": "3d4c6cad81412a1bea64ae737061a76ffa7dc2c8"
+          }
+        },
+        {
+          "client_id": "529140755484-678pp8k4rsbme1o84kkeai5ao22k735l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABzL9gsaO01da1Y_veqC59clqif0UaT3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529140755484-678pp8k4rsbme1o84kkeai5ao22k735l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
